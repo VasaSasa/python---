@@ -36,6 +36,8 @@
 
 #print(product_num)
 
+#TASK04
+
 string_cislo = input("Zadej číslo: ")
 
 integer_cislo_seznam = []
